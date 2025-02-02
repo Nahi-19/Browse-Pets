@@ -5,3 +5,26 @@
     padding: auto;
     background-position: center;
 }
+
+.Dog {
+    padding: 5px;
+}
+
+.footer-links {
+    flex: 1px;
+    min-width: 200px;
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links ul li {
+    margin-bottom: 8px;
+}
+
+.footer-links ul li a {
+    color: black;
+    text-decoration: none;
+}
